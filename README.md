@@ -7,6 +7,6 @@ arXiv:2105.12577 [hep-th]
 
 Files:
 
-Einstein_QED.zip and Einstein_Scalar_QED.zip contain the FeynArts model files. These files have to be put inside the “Model” folder of your FeynArts installation.
+Models.tar.gz contains the FeynArts models files. These files have to be put inside the FeynCalc/FeynArts/Models folder of your FeynCalc installation.
 
 QED_coupled_to_linearized_gravity.nb is the Mathematica notebook where calculations are done.
